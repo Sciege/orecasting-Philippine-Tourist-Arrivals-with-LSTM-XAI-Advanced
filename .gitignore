@@ -1,0 +1,19 @@
+# Virtual environments
+venv/
+**/venv/
+.venv/
+
+# Node / Frontend dependencies & builds
+node_modules/
+**/node_modules/
+.next/
+dist/
+build/
+
+# Python cache and binaries
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment files
+.env
